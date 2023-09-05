@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kiranbiesheuvel
-- 👀 I’m interested: in the IT space 
-- 🌱 I’m currently learning: HTML5, Javascript and CSS!
+- 👀 I’m interested: in cybersecurity and ethical hacking.
+- 🌱 I’m currently learning: Cybersercurity, HTML5, Ethical hacking, Python
